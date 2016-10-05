@@ -1,0 +1,17 @@
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Kinnear/Test Shooter/Testing Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
